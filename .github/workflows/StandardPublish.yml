@@ -1,5 +1,5 @@
 
-name : push
+name : publish
 on : [ push ]
 
 jobs :
